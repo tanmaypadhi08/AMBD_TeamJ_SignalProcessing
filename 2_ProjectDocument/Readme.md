@@ -7,7 +7,7 @@
 1|Oximeter|1|Yes|
 2|Temperature Check||Pending|
 3|Blood Pressure Check||Pending|
-4|ECG||Pending|
+4|Electrocardiography||Pending|
 5|Glucometer||Pending|
 6|Blood Platelet Check||Pending|
 7|Condition of Kidney||Pending|
