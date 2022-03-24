@@ -12,6 +12,7 @@
 |HLR 6|Blood Platelet Check||Pending|
 |HLR 7|Condition of Kidney|1|Yes|
 |HLR 8|Urine Analyser||Pending|
+|HLR 9|Thyroid Checkup|1|Yes|
  
  
  
@@ -29,4 +30,8 @@
  |LLR 7.4|The Moderate condition is 42 - 59 |Yes|
  |LLR 7.5|The Severe condition is 15 - 41 |Yes|
  |LLR 7.6|The Failure condition is less than 15 |Yes| 
- 
+ |LLR 9.1|For overactive thyroid symptomatic the condition the THS value is lessthan 0.1 mU/L.|Yes|
+ |LLR 9.2|For subclinical overactive thyroid the condition the THS value is in between 0.1 to 0.5 mU/L|Yes|
+ |LLR 9.3|For normal condition the THS value is in between 0.5 to 4.7 mU/L|Yes|
+ |LLR 9.4|For subclinical lowlevel thyroid the condition the THS value is in between 4.7 to 10 mU/L|Yes|
+ |LLR 9.5|For low thyreoid symptomatic the condition is the THS value is greater than 10 mU/L|Yes|
