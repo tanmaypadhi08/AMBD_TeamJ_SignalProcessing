@@ -5,13 +5,13 @@
 |S.No| Requirements|Number of Input| Status|
 |----|-------------|---------------|-------|
 |HLR 1|Oximeter|1|Yes|
-|HLR 2|Temperature Check||Pending|
-|HLR 3|Blood Pressure Check||Pending|
-|HLR 4|Electrocardiography||Pending|
-|HLR 5|Glucometer||Pending|
-|HLR 6|Blood Platelet Check||Pending|
+|HLR 2|Temperature Check|1|Pending|
+|HLR 3|Blood Pressure Check|1|Pending|
+|HLR 4|Electrocardiography|1|Pending|
+|HLR 5|Glucometer|1|Pending|
+|HLR 6|Blood Platelet Check|1|Pending|
 |HLR 7|Condition of Kidney|1|Yes|
-|HLR 8|Urine Analyser||Pending|
+|HLR 8|Urine Analyser|1|Pending|
 |HLR 9|Thyroid Checkup|1|Yes|
  
  
