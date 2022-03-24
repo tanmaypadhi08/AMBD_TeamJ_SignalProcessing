@@ -11,7 +11,7 @@
 5|Glucometer|Pending|
 6|Blood Platelet Check|Pending|
 7|Condition of Kidney|Pending|
-8|Urine Analyser||Pending
+8|Urine Analyser|Pending|
  
  
  
