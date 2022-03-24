@@ -15,13 +15,7 @@
  
  
  
- 
- 
- 
- 
- 
- 
- 
+ # LOW LEVEL REQUIREMENTS
  
  |S.No| Requirements| Status|
  |----|-------------|-------|
