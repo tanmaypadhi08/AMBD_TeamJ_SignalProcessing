@@ -24,7 +24,7 @@
  |LLR 1.2 |The normal range should be between 93 to 99|HLR 1|Yes|
  |LLR 1.3|If the input exceeds 99, it will show negative output|HLR 1|Yes|
  |LLR 1.4|If the input is less then 93, it will show negative output|HLR 1|Yes|
- |LLR 7.1|Only one input is required|HLR 7|HLR 1|Yes|
+ |LLR 7.1|Only one input is required|HLR 7|Yes|
  |LLR 7.2|The Normal condition is 90 - 100 |HLR 7|Yes|
  |LLR 7.3|The Mild loss condition is 60 - 89 |HLR 7|Yes|
  |LLR 7.4|The Moderate condition is 42 - 59 |HLR 7|Yes|
