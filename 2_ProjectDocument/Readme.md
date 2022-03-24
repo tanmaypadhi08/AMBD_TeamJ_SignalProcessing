@@ -18,20 +18,20 @@
  
  ## LOW LEVEL REQUIREMENTS
  
- |S.No| Requirements| Status|
- |----|-------------|-------|
- |LLR 1.1 |Only one input is required|Yes|
- |LLR 1.2 |The normal range should be between 93 to 99|Yes|
- |LLR 1.3|If the input exceeds 99, it will show negative output|Yes|
- |LLR 1.4|If the input is less then 93, it will show negative output|Yes|
- |LLR 7.1|Only one input is required|Yes|
- |LLR 7.2|The Normal condition is 90 - 100 |Yes|
- |LLR 7.3|The Mild loss condition is 60 - 89 |Yes|
- |LLR 7.4|The Moderate condition is 42 - 59 |Yes|
- |LLR 7.5|The Severe condition is 15 - 41 |Yes|
- |LLR 7.6|The Failure condition is less than 15 |Yes| 
- |LLR 9.1|For overactive thyroid symptomatic the condition the THS value is lessthan 0.1 mU/L.|Yes|
- |LLR 9.2|For subclinical overactive thyroid the condition the THS value is in between 0.1 to 0.5 mU/L|Yes|
- |LLR 9.3|For normal condition the THS value is in between 0.5 to 4.7 mU/L|Yes|
- |LLR 9.4|For subclinical lowlevel thyroid the condition the THS value is in between 4.7 to 10 mU/L|Yes|
- |LLR 9.5|For low thyreoid symptomatic the condition is the THS value is greater than 10 mU/L|Yes|
+ |S.No| Requirements|HLR| Status|
+ |----|-------------|---|-------|
+ |LLR 1.1 |Only one input is required|HLR 1|Yes|
+ |LLR 1.2 |The normal range should be between 93 to 99|HLR 1|Yes|
+ |LLR 1.3|If the input exceeds 99, it will show negative output|HLR 1|Yes|
+ |LLR 1.4|If the input is less then 93, it will show negative output|HLR 1|Yes|
+ |LLR 7.1|Only one input is required|HLR 7|HLR 1|Yes|
+ |LLR 7.2|The Normal condition is 90 - 100 |HLR 7|Yes|
+ |LLR 7.3|The Mild loss condition is 60 - 89 |HLR 7|Yes|
+ |LLR 7.4|The Moderate condition is 42 - 59 |HLR 7|Yes|
+ |LLR 7.5|The Severe condition is 15 - 41 |HLR 7|Yes|
+ |LLR 7.6|The Failure condition is less than 15 |HLR 7|Yes| 
+ |LLR 9.1|For overactive thyroid symptomatic the condition the THS value is lessthan 0.1 mU/L.|HLR 9|Yes|
+ |LLR 9.2|For subclinical overactive thyroid the condition the THS value is in between 0.1 to 0.5 mU/L|HLR 9|Yes|
+ |LLR 9.3|For normal condition the THS value is in between 0.5 to 4.7 mU/L|HLR 9|Yes|
+ |LLR 9.4|For subclinical lowlevel thyroid the condition the THS value is in between 4.7 to 10 mU/L|HLR 9|Yes|
+ |LLR 9.5|For low thyreoid symptomatic the condition is the THS value is greater than 10 mU/L|HLR 9|Yes|
