@@ -9,7 +9,7 @@
 |HLR 3|Blood Pressure Check|1|Pending|
 |HLR 4|Electrocardiography|1|Pending|
 |HLR 5|Glucometer|1|Pending|
-|HLR 6|Blood Platelet Check|1|Pending|
+|HLR 6|Blood Platelet Check|1|Yes|
 |HLR 7|Condition of Kidney|1|Yes|
 |HLR 8|Urine Analyser|1|Pending|
 |HLR 9|Thyroid Checkup|1|Yes|
@@ -24,6 +24,10 @@
  |LLR 1.2 |The normal range should be between 93 to 99|HLR 1|Yes|
  |LLR 1.3|If the input exceeds 99, it will show negative output|HLR 1|Yes|
  |LLR 1.4|If the input is less then 93, it will show negative output|HLR 1|Yes|
+ |LLR 6.1|Only one input is required|HLR6|Yes|
+ |LLR 6.2| If the input is less than 150000 then it is Thrombocytopenia|HLR 6|Yes|
+ |LLR 6.3| If the input is between 150000 to 450000 then it is normal|HLR 6|Yes|
+ |LLR 6.4| If the input is greater than 450000 then it is Thrombocytosis|HLR 6|Yes|
  |LLR 7.1|Only one input is required|HLR 7|Yes|
  |LLR 7.2|The Normal condition is 90 - 100 |HLR 7|Yes|
  |LLR 7.3|The Mild loss condition is 60 - 89 |HLR 7|Yes|
