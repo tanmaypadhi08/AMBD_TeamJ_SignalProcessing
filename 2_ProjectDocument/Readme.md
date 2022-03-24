@@ -19,6 +19,7 @@
  
  |S.No| Requirements| Status|
  |----|-------------|-------|
- |1.1 |Only one input is required||
- |1.2 |The normal range should be between 93 to 99||
-
+ |1.1 |Only one input is required|Yes|
+ |1.2 |The normal range should be between 93 to 99|Yes|
+ |1.3|If the input exceeds 99, it will show negative output|Yes|
+ |1.4|If the input is less then 93, it will show negative output|Yes|
