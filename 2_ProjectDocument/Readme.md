@@ -31,7 +31,7 @@
  |LLR 5.1|If the input is Less than 5.7% is normal|HLR 5|Yes|
  |LLR 5.2|If the input is lies between 5.7% to 6.4% is diagnosed as prediabetes is normal|HLR 5|Yes|
  |LLR 5.3|If the input is 6.5% or higher then the test indicates diabetes|HLR 5|Yes|
- |LLR 6.1|Only one input is required|HLR6|Yes|
+ |LLR 6.1|Only one input is required|HLR 6|Yes|
  |LLR 6.2| If the input is less than 150000 then it is Thrombocytopenia|HLR 6|Yes|
  |LLR 6.3| If the input is between 150000 to 450000 then it is normal|HLR 6|Yes|
  |LLR 6.4| If the input is greater than 450000 then it is Thrombocytosis|HLR 6|Yes|
@@ -42,7 +42,7 @@
  |LLR 7.5|The Severe condition is 15 - 41 |HLR 7|Yes|
  |LLR 7.6|The Failure condition is less than 15 |HLR 7|Yes| 
  |LLR 8.1|Take input as urine sample value and tell the health condition |HLR 8|YES| 
- |LLR 8.2| Take decimal input and able to tell health condition |HLR 8| YES|
+ |LLR 8.2| Take decimal input and able to tell health condition |HLR 8|YES|
  |LLR 9.1|For overactive thyroid symptomatic the condition the THS value is lessthan 0.1 mU/L.|HLR 9|Yes|
  |LLR 9.2|For subclinical overactive thyroid the condition the THS value is in between 0.1 to 0.5 mU/L|HLR 9|Yes|
  |LLR 9.3|For normal condition the THS value is in between 0.5 to 4.7 mU/L|HLR 9|Yes|
