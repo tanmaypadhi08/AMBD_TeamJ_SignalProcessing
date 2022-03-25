@@ -41,6 +41,8 @@
  |LLR 7.4|The Moderate condition is 42 - 59 |HLR 7|Yes|
  |LLR 7.5|The Severe condition is 15 - 41 |HLR 7|Yes|
  |LLR 7.6|The Failure condition is less than 15 |HLR 7|Yes| 
+ |LLR 8.1|Take input as urine sample value and tell the health condition |HLR 8|YES| 
+ |LLR 8.2| Take decimal input and able to tell health condition |HLR 8| YES|
  |LLR 9.1|For overactive thyroid symptomatic the condition the THS value is lessthan 0.1 mU/L.|HLR 9|Yes|
  |LLR 9.2|For subclinical overactive thyroid the condition the THS value is in between 0.1 to 0.5 mU/L|HLR 9|Yes|
  |LLR 9.3|For normal condition the THS value is in between 0.5 to 4.7 mU/L|HLR 9|Yes|
