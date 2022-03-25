@@ -5,7 +5,7 @@
 |S.No| Requirements|Number of Input| Status|
 |----|-------------|---------------|-------|
 |HLR 1|Oximeter|1|Yes|
-|HLR 2|Temperature Check|1|Pending|
+|HLR 2|Temperature Check|1|Yes|
 |HLR 3|Blood Pressure Check|2|Yes|
 |HLR 4|Blood classification|1|Yes|
 |HLR 5|Glucometer|1|Yes|
