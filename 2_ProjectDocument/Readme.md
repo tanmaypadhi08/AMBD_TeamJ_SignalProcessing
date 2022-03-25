@@ -13,6 +13,7 @@
 |HLR 7|Condition of Kidney|1|Yes|
 |HLR 8|Urine Analyser|1|Pending|
 |HLR 9|Thyroid Checkup|1|Yes|
+|HLR 10|Blood classification|1|Yes|
  
  
  
@@ -44,3 +45,4 @@
  |LLR 9.3|For normal condition the THS value is in between 0.5 to 4.7 mU/L|HLR 9|Yes|
  |LLR 9.4|For subclinical lowlevel thyroid the condition the THS value is in between 4.7 to 10 mU/L|HLR 9|Yes|
  |LLR 9.5|For low thyreoid symptomatic the condition is the THS value is greater than 10 mU/L|HLR 9|Yes|
+|LLR 10|Based on the Antigen and Anti-bodies blood classification can be done|HLR 10|Yes|
