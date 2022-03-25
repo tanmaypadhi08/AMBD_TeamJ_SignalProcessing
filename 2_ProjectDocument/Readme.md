@@ -27,7 +27,7 @@
  |LLR 1.4|If the input is less then 93, it will show negative output|HLR 1|Yes|
  |LLR 3.1|Two inputs detemine the condition|HLR 3|Yes|
  |LLR 3.2|Different ranges determine different conditions|HLR 3|Yes|
- |LLR 4|Based on the Antigen and Anti-bodies blood classification can be done|HLR 10|Yes|
+ |LLR 4|Based on the Antigen and Anti-bodies blood classification can be done|HLR 4|Yes|
  |LLR 5.1|If the input is Less than 5.7% is normal|HLR 5|Yes|
  |LLR 5.2|If the input is lies between 5.7% to 6.4% is diagnosed as prediabetes is normal|HLR 5|Yes|
  |LLR 5.3|If the input is 6.5% or higher then the test indicates diabetes|HLR 5|Yes|
