@@ -9,7 +9,7 @@
 |HLR 3|Blood Pressure Check|2|Yes|
 |HLR 4|Blood classification|1|Yes|
 |HLR 5|Glucometer|1|Yes|
-|HLR 6|Blood Platelet Check|1|Yes|
+|HLR 6|Blood Platelet Check|3|Yes|
 |HLR 7|Condition of Kidney|1|Yes|
 |HLR 8|Urine Analyser|1|Yes|
 |HLR 9|Thyroid Checkup|1|Yes|
