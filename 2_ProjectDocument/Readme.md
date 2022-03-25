@@ -11,7 +11,7 @@
 |HLR 5|Glucometer|1|Yes|
 |HLR 6|Blood Platelet Check|1|Yes|
 |HLR 7|Condition of Kidney|1|Yes|
-|HLR 8|Urine Analyser|1|Pending|
+|HLR 8|Urine Analyser|1|Yes|
 |HLR 9|Thyroid Checkup|1|Yes|
 
  
