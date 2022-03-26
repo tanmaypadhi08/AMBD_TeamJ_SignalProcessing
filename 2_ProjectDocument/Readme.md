@@ -70,3 +70,16 @@
 
 ### Threat
 1. This model does not cover few basic test which ar required for a patient
+
+## 4W's And 1H'
+
+### Who
+1. Any local person who wish to have a complete body checkup
+ 
+### Where
+1. Any near clinic, health centres or hospital
+
+### When
+1. Whenever they do feel that they need a checkup
+
+### 
