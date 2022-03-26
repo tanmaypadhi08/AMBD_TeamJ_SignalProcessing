@@ -7,7 +7,7 @@
 |HLR 1|Oximeter|1|Yes|
 |HLR 2|Temperature Check|1|Yes|
 |HLR 3|Blood Pressure Check|2|Yes|
-|HLR 4|Blood classification|1|Yes|
+|HLR 4|Blood classification|4|Yes|
 |HLR 5|Glucometer|1|Yes|
 |HLR 6|Blood Platelet Check|3|Yes|
 |HLR 7|Condition of Kidney|1|Yes|
