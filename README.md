@@ -43,10 +43,11 @@ This model has been made for health checkup for various diseases and common flu 
 ## The People Included in this model
 1. Yash Rastogi
 2. Tanmay Padhi
-3. Ravi Chitti
+3. Vaidehi Gouda
 4. Maheshwara Reddy Nemali
-5. Pavan Kumar Reddy Alavala
-6. Kalyan Kumar Thodeti
-7. Harshvardhan B
-8. Konchada Venkata Jayarama
-9. Vaidehi Gouda
+5. Konchada Venkata Jayarama
+6.  Harshvardhan B
+7. Pavan Kumar Reddy Alavala
+8. Ravi Chitti
+9. Kalyan Kumar Thodeti 
+
