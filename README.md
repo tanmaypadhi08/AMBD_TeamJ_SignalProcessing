@@ -40,7 +40,7 @@ This model has been made for health checkup for various diseases and common flu 
  - This test tells about how well our kidneys are filtering and moreover this test is to tell about the condition of the kidney in our body.
 
 
-The People Included in this model
+## The People Included in this model
 1. Yash Rastogi
 2. Tanmay Padhi
 3. Ravi Chitti
