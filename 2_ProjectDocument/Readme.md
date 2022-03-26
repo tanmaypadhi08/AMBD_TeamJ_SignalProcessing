@@ -70,4 +70,3 @@
 
 ### Threat
 1. This model does not cover few basic test which ar required for a patient
-1. 
