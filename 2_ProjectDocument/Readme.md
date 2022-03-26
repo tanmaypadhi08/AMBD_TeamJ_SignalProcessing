@@ -54,3 +54,20 @@
  |LLR 9.3|For normal condition the THS value is in between 0.5 to 4.7 mU/L|HLR 9|Yes|
  |LLR 9.4|For subclinical lowlevel thyroid the condition the THS value is in between 4.7 to 10 mU/L|HLR 9|Yes|
  |LLR 9.5|For low thyroid symptomatic the condition is the THS value is greater than 10 mU/L|HLR 9|Yes|
+ 
+ ## SWOT ANALYSIS
+ 
+ ### Strength
+ 1. This model can run various test on a patient and can give instant result
+ 2. It is very simple model and design is very neat
+
+### Weakness
+1. The model takes very less number of input so there is a chance of getting less efficient results
+
+### Oppurtunity
+1. This model is light and can be used anywhere required
+2. Also the model cost is less so it is cost efficient
+
+### Threat
+1. This model does not cover few basic test which ar required for a patient
+1. 
