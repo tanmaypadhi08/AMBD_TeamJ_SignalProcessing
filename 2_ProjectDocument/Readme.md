@@ -75,11 +75,15 @@
 
 ### Who
 1. Any local person who wish to have a complete body checkup
+
+### What
+1. Body Checkup Tool
+
+### When
+1. Whenever they do feel that they need a checkup
  
 ### Where
 1. Any near clinic, health centres or hospital
 
-### When
-1. Whenever they do feel that they need a checkup
-
-### 
+### How
+1. Just select the test which you want to check and give your inputs, the tool will generate the output
