@@ -19,9 +19,9 @@ The People Included in this model
 1. Yash Rastogi
 2. Tanmay Padhi
 3. Ravi Chitti
-4. Pavan Kumar Reddy Alavala
-5. Kalyan Kumar Thodeti
-6. Maheshwara Reddy Nemari
+4. Maheshwara Reddy Nemali
+5. Pavan Kumar Reddy Alavala
+6. Kalyan Kumar Thodeti
 7. Harshvardhan B
 8. Konchada Venkata Jayarama
 9. Vaidehi Gouda
