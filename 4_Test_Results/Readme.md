@@ -1,3 +1,7 @@
+## Diastol Diagram
+![Diastol_graph](https://user-images.githubusercontent.com/48876183/160250659-c96de80d-4fa7-4e9a-96c5-827b4374949e.JPG)
+## Systol Diagram
+![Systol_graph](https://user-images.githubusercontent.com/48876183/160250662-68d3bd1a-9496-45bc-81b6-45f5fdbb1126.JPG)
 ## Oximeter
 ![oximeter](https://user-images.githubusercontent.com/48876183/160250071-5b0ffd56-d65c-45ff-b27d-95dd99d1352d.jpg)
 ## Temperature Check
