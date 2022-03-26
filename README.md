@@ -23,7 +23,7 @@ This model has been made for health checkup for various diseases and common flu 
 - A blood pressure test checks if your blood pressure is healthy, or if it's high or low.
 - It describes the strength in which the blood pushes on the sides of arteries as it is around your body.
 #### Thyroid Check
- - A blood test that measures our hormone level to find out whether there is a problem or not.
+ - A blood test that measures our hormone level and gives THS value by using that it will decide that you can check that you are infectesd or not.
 #### Blood Platelet Check
 - A platelet count is a test that measures the number of platelets in your blood.
 - If Platelets are few that can be a sign of cancer, infections or other health problems.
