@@ -3,7 +3,7 @@
 ## Systol Diagram
 ![Systol_graph](https://user-images.githubusercontent.com/48876183/160250662-68d3bd1a-9496-45bc-81b6-45f5fdbb1126.JPG)
 ## Glucometer Output
-![glucometer](https://raw.githubusercontent.com/tanmaypadhi08/AMBD_TeamJ_SignalProcessing/main/4_Test_Results/Glcometer_output.png?token=GHSAT0AAAAAABS5E2UDREEG4FTCMZGCWYIMYR7JZRQ)
+![glucometer](https://raw.githubusercontent.com/tanmaypadhi08/AMBD_TeamJ_SignalProcessing/main/4_Test_Results/Glcometer_output.png?token=GHSAT0AAAAAABS6KYLEWPDVKWMQSL6F7B5WYSBLF7Q)
 ## Oximeter
 ![oximeter](https://user-images.githubusercontent.com/48876183/160250071-5b0ffd56-d65c-45ff-b27d-95dd99d1352d.jpg)
 ## Temperature Check
